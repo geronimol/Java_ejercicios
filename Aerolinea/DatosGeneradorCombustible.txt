@@ -1,0 +1,5 @@
+COM001 Nafta_Super Nafta_de_calidad_intermedia. disponible 0.80
+COM002 Nafta_Nitro Nafta_de_maxima_calidad. disponible 0.50
+COM003 Gas Combustible_economico_de_gas. disponible 1
+COM004 Diesel_Power Diesel_de_calidad_intermedia. suspendido 0.80
+COM005 Diesel_Premium Diesel_de_maxima_calidad. disponible 0.60

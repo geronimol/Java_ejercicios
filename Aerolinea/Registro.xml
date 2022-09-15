@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Viajeros>
+    	<DNI numero="1111111">
+        	<ID>CON004</ID>
+        	<MONTO>2000</MONTO>
+        	<LITRO>0</LITRO>
+    	</DNI>
+	<DNI numero="1111111">
+        	<ID>CON005</ID>
+        	<MONTO>1450</MONTO>
+        	<LITRO>0</LITRO>
+	</DNI>
+	<DNI numero="1111111">
+        	<ID>HOT008</ID>
+        	<MONTO>0</MONTO>
+        	<LITRO>0</LITRO>
+    	</DNI>
+	<DNI numero="1111111">
+        	<ID>COM003</ID>
+        	<MONTO>0</MONTO>
+        	<LITRO>25</LITRO>
+	</DNI>
+	<DNI numero="1111111">
+        	<ID>CON004</ID>
+        	<MONTO>640</MONTO>
+        	<LITRO>0</LITRO>
+    	</DNI>
+	<DNI numero="2222222">
+        	<ID>VIA013</ID>
+        	<MONTO>0</MONTO>
+        	<LITRO>0</LITRO>
+	</DNI>
+	<DNI numero="2222222">
+        	<ID>CON001</ID>
+        	<MONTO>1500</MONTO>
+        	<LITRO>0</LITRO>
+    	</DNI>
+	<DNI numero="2222222">
+        	<ID>CON004</ID>
+        	<MONTO>3000</MONTO>
+        	<LITRO>0</LITRO>
+	</DNI>
+	<DNI numero="2222222">
+        	<ID>CON006</ID>
+        	<MONTO>450</MONTO>
+        	<LITRO>0</LITRO>
+    	</DNI>
+	<DNI numero="2222222">
+        	<ID>COM001</ID>
+        	<MONTO>0</MONTO>
+        	<LITRO>35</LITRO>
+	</DNI>
+	<DNI numero="2222222">
+        	<ID>VIA005</ID>
+        	<MONTO>0</MONTO>
+        	<LITRO>0</LITRO>
+    	</DNI>
+	<DNI numero="2222222">
+        	<ID>COM001</ID>
+        	<MONTO>0</MONTO>
+        	<LITRO>34</LITRO>
+	</DNI>
+	<DNI numero="2222222">
+        	<ID>HOT001</ID>
+        	<MONTO>0</MONTO>
+        	<LITRO>0</LITRO>
+    	</DNI>
+	<DNI numero="4444444">
+        	<ID>CON007</ID>
+        	<MONTO>10000</MONTO>
+        	<LITRO>0</LITRO>
+	</DNI>
+	<DNI numero="4444444">
+        	<ID>CON008</ID>
+        	<MONTO>6730</MONTO>
+        	<LITRO>0</LITRO>
+    	</DNI>
+	<DNI numero="4444444">
+        	<ID>VIA008</ID>
+        	<MONTO>0</MONTO>
+        	<LITRO>0</LITRO>
+	</DNI>
+	<DNI numero="4444444">
+        	<ID>COM004</ID>
+        	<MONTO>0</MONTO>
+        	<LITRO>45</LITRO>
+    	</DNI>
+	<DNI numero="4444444">
+        	<ID>HOT003</ID>
+        	<MONTO>0</MONTO>
+        	<LITRO>0</LITRO>
+	</DNI>
+	<DNI numero="4444444">
+        	<ID>HOT004</ID>
+        	<MONTO>0</MONTO>
+        	<LITRO>0</LITRO>
+    	</DNI>
+	<DNI numero="5555555">
+        	<ID>CON002</ID>
+        	<MONTO>11720</MONTO>
+        	<LITRO>0</LITRO>
+	</DNI>
+	<DNI numero="5555555">
+        	<ID>VIA010</ID>
+        	<MONTO>0</MONTO>
+        	<LITRO>0</LITRO>
+    	</DNI>
+	<DNI numero="5555555">
+        	<ID>HOT005</ID>
+        	<MONTO>0</MONTO>
+        	<LITRO>0</LITRO>
+	</DNI>
+	<DNI numero="5555555">
+        	<ID>COM002</ID>
+        	<MONTO>0</MONTO>
+        	<LITRO>37</LITRO>
+    	</DNI>
+	<DNI numero="5555555">
+        	<ID>CON001</ID>
+        	<MONTO>3140</MONTO>
+        	<LITRO>0</LITRO>
+	</DNI>
+	<DNI numero="5555555">
+        	<ID>COM002</ID>
+        	<MONTO>0</MONTO>
+        	<LITRO>41</LITRO>
+    	</DNI>
+	<DNI numero="5555555">
+        	<ID>CON006</ID>
+        	<MONTO>410</MONTO>
+        	<LITRO>0</LITRO>
+	</DNI>
+	<DNI numero="5555555">
+        	<ID>CON002</ID>
+        	<MONTO>5550</MONTO>
+        	<LITRO>0</LITRO>
+    	</DNI>
+	<DNI numero="5555555">
+        	<ID>CON001</ID>
+        	<MONTO>685</MONTO>
+        	<LITRO>0</LITRO>
+	</DNI>
+	<DNI numero="5555555">
+        	<ID>CON004</ID>
+        	<MONTO>4230</MONTO>
+        	<LITRO>0</LITRO>
+    	</DNI>
+	<DNI numero="5555555">
+        	<ID>COM002</ID>
+        	<MONTO>0</MONTO>
+        	<LITRO>40</LITRO>
+	</DNI>
+	<DNI numero="8888888">
+        	<ID>CON003</ID>
+        	<MONTO>153</MONTO>
+        	<LITRO>0</LITRO>
+    	</DNI>
+	<DNI numero="9999999">
+        	<ID>VIA006</ID>
+        	<MONTO>0</MONTO>
+        	<LITRO>0</LITRO>
+	</DNI>
+	<DNI numero="9999999">
+        	<ID>CON008</ID>
+        	<MONTO>2450</MONTO>
+        	<LITRO>0</LITRO>
+	</DNI>
+</Viajeros>

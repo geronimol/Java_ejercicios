@@ -1,0 +1,38 @@
+Fecha Inicio:11-2-2000
+Fecha Final: No Definida
+
+
+BEBIDAS
+
+Agua Mineral.................. $8.0
+Gaseosa....................... $10.0
+
+
+ENTRADAS
+
+Gambas al ajillo.............. $52.0
+Provoleta..................... $11.0
+Rabas......................... $26.0
+
+
+POSTRES
+
+Almendrado.................... $10.0
+Ensalada de frutas............ $10.0
+Panqueque de manzana.......... $15.0
+
+
+PLATOS PRINCIPALES
+
+Rissoto de hongos............. $32.8
+Rissoto de mar................ $56.0
+
+
+VINOS
+
+Alamos........................ $40.0
+Elementos..................... $25.0
+Intimo Canale................. $40.0
+Nieto Senetiner............... $45.0
+NQN........................... $35.0
+Saurus Reserva................ $55.0

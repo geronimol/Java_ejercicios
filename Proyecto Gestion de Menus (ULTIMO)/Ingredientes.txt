@@ -1,0 +1,8 @@
+15,Arroz,kg
+80,Mejillones,kg
+20,Calamares,kg
+70,Hongos de pino,kg
+50,Champignones,kg
+20,Lomo,kg
+7,Crema de leche,Litro
+2,Cebolla,Unidad

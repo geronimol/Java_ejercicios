@@ -1,0 +1,10 @@
+BARCELONA Cosmopolita.Cultural.Futbol.Gaudi.
+BUENOS_AIRES Capital.Teatro.Tango.Obelisco.
+LIMA Incaico.Cocina_gourmet.
+MENDOZA Montania.Bodegas.Rafting.
+MIAMI Playa.Compras.
+PARIS Ciudad_Luz.Torre_Eiffel.
+RIO_DE_JANEIRO Playa.Pan_de_azucar.Corcovado.Carnaval.
+ROMA Historia.Coliseo.
+SALTA La_Linda.Montania.Folklore.
+TOKIO Tecnologia.Cultura.

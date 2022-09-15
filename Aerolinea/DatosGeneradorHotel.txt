@@ -1,0 +1,8 @@
+HOT001 Hilton_Barcelona Hotel_de_calidad_ejecutiva_ubicado_en_la_plaza_Espania. disponible 0.80 5 600 2 BARCELONA
+HOT002 Citizen_Barcelona Hotel_de_calidad_ubicado_en_el_centro_de_la_ciudad. disponible 0.50 4 350 4 BARCELONA
+HOT003 Hilton_Barcelona Hotel_de_calidad_ejecutiva_ubicado_en_la_plaza_Espania. caduco 0.80 5 600 3 BARCELONA
+HOT004 Sheraton_Buenos_Aires Hotel_ejecutivo_con_buena_vista_ubicado_en_Puerto_Madero. disponible 0.70 5 500 3 BUENOS_AIRES
+HOT005 Sheraton_Rio_de_Janeiro Hotel_ubicado_en_el_centro_de_la_ciudad_con_vista_a_Copacabana. disponible 0.70 5 650 3 RIO_DE_JANEIRO
+HOT006 Sheraton_Rio_de_Janeiro Hotel_ubicado_en_el_centro_de_la_ciudad_con_vista_a_Copacabana. suspendido 0.70 5 650 4 RIO_DE_JANEIRO
+HOT007 Citizen_Roma Hotel_de_calidad_ubicado_a_2_cuadras_de_la_Fontana_di_Trevi caduco 0.50 4 400 5 ROMA
+HOT008 Citizen_Roma Hotel_de_calidad_ubicado_a_2_cuadras_de_la_Fontana_di_Trevi disponible 0.50 4 400 2 ROMA

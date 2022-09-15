@@ -1,0 +1,8 @@
+CON001 Indumentaria_diaria Remeras_pantalones_camperas_y_buzos. disponible 0.05
+CON002 Electronica Computacion_sonido_y_TVs. disponible 0.10
+CON003 Jardineria Flores_instrumentos_de_jardineria_y_fertilizantes. suspendido 0.05
+CON004 Perfumeria Perfumes_importados_deshorodantes_y_lociones. disponible 0.08
+CON005 Deportes Pelotas_raquetas_y_paletas. disponible 0.08
+CON006 Limpieza Detergentes_aerosoles_liquidos_para_pisos_y_vidrios. caduco 0.02
+CON007 Rodados Cubiertas_aceites_y_porta-equipajes. disponible 0.15
+CON008 Indumentaria_formal Trajes_cinturones_zapatos_camisas. caduco 0.12

@@ -1,0 +1,11 @@
+ Nombre: Azul0
+Destino: Azul Distancia:200.0
+Vehiculo: Patente:555asd Nombre:Vehiculo.CocheCama Capacidad:32 Velocidad promedio:1.0 Valor pasajero:1.0 Valor plazas:1.0 Plazas totales:26 Plazas ocupadas:2 Cant Pasajeros:2 Valor total:801.0
+Responsables a bordo: [ DNI:11 Nombre:111 Sueldo:11.0]
+ Nombre: Mardel1
+Destino: Mardel Distancia:30.0
+Vehiculo: Patente:123asd Nombre:Vehiculo.Auto Capacidad:4 Velocidad promedio:2.0 Valor base:1.0 Valor por km:1.0 Cant Pasajeros:2 Valor total:32.0 Valor base:1.0
+ Nombre: Mardel2
+Destino: Mardel Distancia:30.0
+Vehiculo: Patente:123asd Nombre:Vehiculo.Auto Capacidad:4 Velocidad promedio:2.0 Valor base:1.0 Valor por km:1.0 Cant Pasajeros:2 Valor total:32.0 Valor base:1.0
+ RECAUDACION TOTAL:865.0

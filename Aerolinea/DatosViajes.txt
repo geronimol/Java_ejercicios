@@ -1,0 +1,15 @@
+VIA001 AA-147 Vuelo_en_Turista_desde_Buenos_Aires_a_Tokio disponible 0.50 BUENOS_AIRES TOKIO Turista
+VIA002 DA-1050 Vuelo_en_Primera_desde_Miami_a_Tokio disponible 1 MIAMI TOKIO Primera 3 Champagne 50 Whisky_importado 50 Habanos_cubanos 50
+VIA003 AA-541 Vuelo_en_Turista_desde_Salta_a_Paris caduco 0.5 SALTA Paris Turista
+VIA004 AA-541 Vuelo_en_Business_desde_Salta_a_Paris disponible 0.7 SALTA PARIS Business 0
+VIA005 AA-147 Vuelo_en_Primera_desde_Buenos_Aires_a_Tokio. disponible 0.8 BUENOS_AIRES TOKIO Business 2 Champagne 50 Sushi 100
+VIA006 AA-147 Vuelo_en_Business_desde_Buenos_Aires_a_Tokio. suspendido 0.8 BUENOS_AIRES TOKIO Business 1 Champagne 50
+VIA007 AA-345 Vuelo_en_Business_desde_Mendoza_a_Barcelona. disponible 0.8 MENDOZA BARCELONA Business 2 Whisky_importado 50 Habanos_cubanos 50
+VIA008 COP-710 Vuelo_en_Turista_desde_Lima_a_Buenos_Aires. disponible 0.4 LIMA BUENOS_AIRES Turista 
+VIA009 AA-200 Vuelo_en_Primera_desde_Buenos_Aires_a_Roma. suspendido 0.9 BUENOS_AIRES ROMA Primera 3 Champagne 50 Whisky_importado 50 Habanos_cubanos 50
+VIA010 AA-345 Vuelo_en_Primera_desde_Mendoza_a_Barcelona. disponible 1.2 MENDOZA BARCELONA Primera 2 Whisky_importado 50 Habanos_cubanos 50
+VIA011 DA-1050 Vuelo_en_Turista_desde_Miami_a_Tokio. caduco 0.7 MIAMI TOKIO Turista
+VIA012 COP-710 Vuelo_en_Business_desde_Lima_a_Buenos_Aires. disponible 0.6 LIMA BUENOS_AIRES Business 2 Whisky_importado 50 Habanos_cubanos 50
+VIA013 AA-345 Vuelo_en_Turista_desde_Mendoza_a_Barcelona. disponible 0.6 MENDOZA BARCELONA Turista 
+VIA014 AA-200 Vuelo_en_Primera_desde_Buenos_Aires_a_Roma. disponible 0.9 BUENOS_AIRES ROMA Primera 1 Champagne 50
+VIA015 AA-210 Vuelo_en_Turista_desde_Buenos_Aires_a_Barcelona. disponible 0.6 BUENOS_AIRES BARCELONA Turista

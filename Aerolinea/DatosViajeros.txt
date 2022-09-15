@@ -1,0 +1,9 @@
+Juan_Uno 1111111 200
+Juana_Dos 2222222 0
+Luis_Tres 3333333 500
+Luisa_Cuatro 4444444 2100
+Raul_Cinco 5555555 12500
+Ana_Seis 6666666 0
+Pedro_Siete 7777777 1100
+Maria_Ocho 8888888 0
+Alberto_Nueve 9999999 0
